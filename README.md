@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 날씨 API를 받아와서 도시의 현재 온도 표시
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
